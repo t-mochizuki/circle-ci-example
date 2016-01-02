@@ -1,0 +1,10 @@
+{
+  "name": "circle-ci-example",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "2.2.x"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  }
+}
